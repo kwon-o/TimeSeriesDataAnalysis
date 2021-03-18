@@ -1,0 +1,10 @@
+log
+csv
+test
+*.log
+*.exe
+*.csv
+*.json
+check.ipynb
+.ipynb_checkpoints
+main_test.py
